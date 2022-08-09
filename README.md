@@ -1,4 +1,4 @@
-# Use this as a template for your Node.js projects in repl.it
+# This project will define how Node.js works with routes
 
 Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com
 
